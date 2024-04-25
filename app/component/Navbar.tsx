@@ -35,8 +35,7 @@ const Navbar = () => {
           </p>{" "}
           <br />
           <p className="font-normal sm:text-2xl text-[18px]  sm:px-56 px-16">
-            Ready to watch? Enter your email to create or restart your
-            membership.
+           abc
           </p>
           <div className="sm:flex  gap-2 justify-center mt-4 ">
             <input
